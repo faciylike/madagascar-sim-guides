@@ -74,3 +74,10 @@ layout: default
 
 　　最后提醒：离境前如果SIM卡内还有余额，不妨送给当地需要的人。这几万阿里亚里对你可能不算什么，但对当地人来说可能是好几天的收入。这种微小的善意，有时候比风景更让人难忘。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Madagascar eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/madagascar-data-plans)
